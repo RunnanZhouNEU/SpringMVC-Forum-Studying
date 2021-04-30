@@ -281,8 +281,9 @@ public class UserBusinessController {
 	public JavaMailSenderImpl getMailConfig() {
 		JavaMailSenderImpl javaMailSenderImpl = new JavaMailSenderImpl();
 		javaMailSenderImpl.setHost("smtp.gmail.com");
-		javaMailSenderImpl.setUsername("studyforumboston@gmail.com");
-		javaMailSenderImpl.setPassword("Mike1996,");
+		//set this with your own gmail account
+		javaMailSenderImpl.setUsername("");
+		javaMailSenderImpl.setPassword("");
 		javaMailSenderImpl.setPort(587);
 		Properties mailProperties = new Properties();
 		mailProperties.put("mail.smtp.starttls.enable", true);
