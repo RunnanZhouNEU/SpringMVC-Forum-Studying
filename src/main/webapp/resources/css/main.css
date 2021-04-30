@@ -1,0 +1,22 @@
+html, body{height:100%; margin:0;padding:0}
+.front-container{
+	margin:auto;
+	height:100%;
+	width:100%;	
+	display:grid;
+	grid-template-columns:50% 50%;
+}
+
+.parent{
+
+}
+
+.container{
+	font-family: 'Noto Serif', serif;
+	width: 100%;
+  	height: 100vh;
+  	position: relative;
+  	background-color:#d6deea;
+}
+
+
