@@ -31,20 +31,20 @@ This application is a forum application which provide a platform for users to sh
 
 
 
-4.	Roles and Tasks
-User Role: 
-1.	Create Community/thread/post.  
-2.	Upvote and downvote thread/post.  
-3.	Communicate with other members in the forum.  
-4.	Verify the email address.  
-5.	Update user profile.  
-6.	Look up other users’ profile.  
-7.	Check recent post.  
-8.	Check community/thread/post by date, alphabet, number of votes.  
-Manager Role:  
-1.	delete Community/thread/post.  
-2.	User profiles look up   
-3.	User posts look up.   
-4.	Award/deduct user credit.  
-5.	Generate report about the forum user’s information.  
+4.	Roles and Tasks.  
+• User Role: 
+Create Community/thread/post.  
+Upvote and downvote thread/post.  
+Communicate with other members in the forum.  
+Verify the email address.  
+Update user profile.  
+Look up other users’ profile.  
+Check recent post.  
+Check community/thread/post by date, alphabet, number of votes.  
+• Manager Role:   
+delete Community/thread/post.  
+User profiles look up   
+User posts look up.   
+Award/deduct user credit.  
+Generate report about the forum user’s information.  
 
