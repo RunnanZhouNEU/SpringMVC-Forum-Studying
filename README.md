@@ -3,7 +3,7 @@ Project Report
 
 1.	Summary
 This application is a forum application which provide a platform for users to share and help each other on specific field. The purpose is to help people get improved on their study. The organization of content can be divided into three parts. Communities, Threads, Posts. Communities is to set the topic of the discussion happened in the communities. We have communities for various fields of study. For example, GRE, SAT, TOFEL communities.  For each community, there are several threads in it. The threads set a more specific area for the discussion. Such as, share the experience of studying or ask questions about a specific topic. For each thread, there are several posts. Each post is to convey the information by the user.
-2.	Functionality Performed
+2.	Functionality Performed 
 •	Sign in/Sign up/ Update password of user
 •	Create community/thread/post
 •	Retrieve community/thread/post
