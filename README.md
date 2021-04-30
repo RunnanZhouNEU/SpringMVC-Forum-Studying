@@ -1,6 +1,6 @@
 # StudyingForum
 
-# Please give a Star if this help! Any questions in issues will be answered. Thank you!
+Please give a Star if this help! Any questions in issues will be answered. Thank you!
 
 
 ![](images/1.png)
