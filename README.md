@@ -47,36 +47,4 @@ Manager Role:
 3.	User posts look up
 4.	Award/deduct user credit
 5.	Generate report about the forum user’s information
-5.	Screen shot
 
- 
-
-
- 
-
-
- 
-
- 
-
-
-
-
-
-
- 
- 
-
-
- 
-
-
- 
-
- 
-
- 
-
-
-
-![image](https://user-images.githubusercontent.com/71201297/116634846-356dac80-a92b-11eb-993a-83bdbcf0d9d8.png)
